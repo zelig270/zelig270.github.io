@@ -1,0 +1,10 @@
+body {
+  font-family: Veranda;
+  background-color: black;
+}
+.title {font-family: Veranda;
+font-size: 50px;
+font-weight:normal;
+color: white;
+text-align: center;
+}
